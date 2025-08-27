@@ -26,7 +26,7 @@ Run demo_compare notebook file for comparison.
 
 Run demo_single notebook file for no comparing.
 
-### Inputs
+### :arrow_down_small: Inputs
 
 ---
 
