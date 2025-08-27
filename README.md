@@ -12,6 +12,8 @@ To do so by a more lightweight approach, backpropagating the error map to functi
 
 ---
 
+Interface: This is implemented mostly as a jupyter notebook script.
+
 Unpack.
 
 Note: Use Python 3.11.10
