@@ -2,9 +2,13 @@
 
 ### Objective
 
+---
+
 Correct artifacts in CT scans.
 
 ### Installation
+
+---
 
 Unpack.
 
@@ -16,11 +20,15 @@ Replace '(environment name)\Lib\site-packages\getcatsim\reconstruction\pyfiles\r
 
 ### Use
 
+---
+
 Run demo_compare notebook file for comparison.
 
 Run demo_single notebook file for no comparing.
 
 ### Inputs
+
+---
 
 Data folder contains some separated sample data to try the program on.
 
@@ -33,6 +41,8 @@ Copy path to corresponding text inputs in the demo script.
 The same applies to the weights .pth file in the 'models' folder.
 
 ### Notes
+
+---
 
 Currently, sometimes, results vary depending on sample.
 
