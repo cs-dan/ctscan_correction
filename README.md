@@ -24,7 +24,7 @@ Replace '(environment name)\Lib\site-packages\getcatsim\reconstruction\pyfiles\r
 
 Run demo_compare notebook file for comparison.
 
-Run demo_single notebook file for no comparing.
+Run demo_single notebook file for no comparing, inference.
 
 ### :arrow_down_small: Inputs
 
@@ -34,7 +34,11 @@ Data folder contains some separated sample data to try the program on.
 
 The 'with_artifacts' folders contains artifact samples. The 'without_artifacts' folder contains the clean versions of those samples.
 
-There are two types of anatomy for input. 'o' for body, and 'h' for head.
+There are two types of anatomy for input:
+
+* 'o' for body
+
+* 'h' for head.
 
 Copy path to corresponding text inputs in the demo script.
 
@@ -46,4 +50,14 @@ The same applies to the weights .pth file in the 'models' folder.
 
 Currently, sometimes, results vary depending on sample.
 
-AAPMProj, AAPMRecon scripts belong to its developer.
+To develop more consistent results, a larger or more varied dataset may be considered.
+
+Alternatively, the classifier architecture could be scaled up, however that would defeat the purpose of this project.
+
+The simple method, metes out results fulfilling its purpose however.
+
+### :copyright: Disclaimers
+
+---
+
+AAPMProj, AAPMRecon scripts belong to its developer. I have only retrofited some functionality in them for the purposes of this project.
