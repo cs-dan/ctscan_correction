@@ -1,5 +1,7 @@
 # Iterative Algorithm for Artifact Reduction
 
+## i.e. a "lightweight image denoiser method for medical imagery"
+
 ### :dart: Objective
 
 ---
