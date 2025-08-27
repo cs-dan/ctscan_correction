@@ -6,6 +6,8 @@
 
 Correct artifacts in CT scans.
 
+To do so by a more lightweight approach, backpropagating the error map to function as a denoiser from a classifier.
+
 ### :construction: Installation
 
 ---
