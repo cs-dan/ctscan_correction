@@ -1,12 +1,12 @@
 # Iterative Algorithm for Artifact Reduction
 
-### Objective
+### :dart: Objective
 
 ---
 
 Correct artifacts in CT scans.
 
-### Installation
+### :construction: Installation
 
 ---
 
@@ -18,7 +18,7 @@ Install dependencies on environment from requirements.txt.
 
 Replace '(environment name)\Lib\site-packages\getcatsim\reconstruction\pyfiles\recon.py' with provided '\libs\recon.py'.
 
-### Use
+### :heavy_exclamation_mark: Use
 
 ---
 
@@ -40,7 +40,7 @@ Copy path to corresponding text inputs in the demo script.
 
 The same applies to the weights .pth file in the 'models' folder.
 
-### Notes
+### :clipboard: Notes
 
 ---
 
